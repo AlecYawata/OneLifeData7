@@ -1,6 +1,6 @@
 w=400
 h=90
-origin=6,15
+origin=10,14
 floorPresent
 x=0,y=0
 biome=1
